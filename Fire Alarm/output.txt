@@ -1,0 +1,8 @@
+VCD info: dumpfile fire_alarm.vcd opened for output.
+
+Time=0   | Smoke=0 | High_Temp=0 | Alarm=0 | Warning=0
+Time=20  | Smoke=0 | High_Temp=0 | Alarm=0 | Warning=0
+Time=30  | Smoke=1 | High_Temp=0 | Alarm=1 | Warning=1
+Time=40  | Smoke=0 | High_Temp=1 | Alarm=1 | Warning=1
+Time=50  | Smoke=1 | High_Temp=1 | Alarm=1 | Warning=1
+Time=60  | Smoke=0 | High_Temp=0 | Alarm=0 | Warning=0
